@@ -1,0 +1,77 @@
+{
+    "hand": {
+        "position": [0, 0, 0],
+        "children": {
+            "thumb1": {
+                "position": [-0.606721, 0.234039, 0],
+                "children": {
+                    "thumb2": {
+                        "position": [-0.606721, -0.451543, 0],
+                        "children": {
+                            "thumb3": {
+                                "position": [-0.572378, -0.999754, 0],
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "index1": {
+                "position": [-0.430174, -0.939209, 0],
+                "children": {
+                    "index2": {
+                        "position": [-0.425595, -1.57569, 0],
+                        "children": {
+                            "index3": {
+                                "position": [-0.424069, -2.0977, 0],
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "middle1": {
+                "position": [-0.077589, -1.05063, 0],
+                "children": {
+                    "middle2": {
+                        "position": [-0.077589, -1.82144, 0],
+                        "children": {
+                            "middle3": {
+                                "position": [-0.069957, -2.44418, 0],
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "ring1": {
+                "position": [0.265838, -0.873576, 0],
+                "children": {
+                    "ring2": {
+                        "position": [0.270417, -1.54669, 0],
+                        "children": {
+                            "ring3": {
+                                "position": [0.271943, -2.11449, 0],
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "little1": {
+                "position": [0.572633, -0.66752, 0],
+                "children": {
+                    "little2": {
+                        "position": [0.577212, -1.18495, 0],
+                        "children": {
+                            "little3": {
+                                "position": [0.581791, -1.59401, 0],
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
